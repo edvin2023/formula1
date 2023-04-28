@@ -88,3 +88,7 @@ footer a, footer a:visited {
 .boldtext{
     font-weight: bolder;
 }
+
+p{
+    text-align: justify;
+}
